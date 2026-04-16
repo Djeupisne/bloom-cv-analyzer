@@ -1,4 +1,6 @@
 torch
 transformers
 accelerate
-pip install fastapi uvicorn torch transformers accelerate
+fastapi
+uvicorn
+pdfplumber
